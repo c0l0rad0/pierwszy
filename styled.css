@@ -1,0 +1,181 @@
+body{
+		
+		margin-top:0px;
+		margin-left:0px;
+		margin-bottom:0px;
+		margin-right:0px;
+		background-color:rgb(90,182,252);
+		font-family: 'Oswald', sans-serif;
+    color:rgb(214,200,187);
+}
+
+#logo{
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+#blocka{
+	
+	margin-left:auto;
+	margin-right:auto;
+	
+	width:80%;
+	background-color: rgba(50, 50, 50, 0.7);
+	
+		border-top-right-radius:10px;
+		border-top-left-radius:10px;
+		border-bottom-left-radius:10px;
+  border-bottom-right-radius:10px;
+}
+#menu{
+	width:100%;
+	padding:10px 0;
+	background-color:rgba(20, 20, 20, 1.0);
+	text-align:center;
+	border-top:3px solid black;
+	border-bottom:3px solid black;
+	
+	overflow:hidden;
+	border-top-right-radius:10px;
+		border-top-left-radius:10px;
+}
+
+#menu a {
+    transition:0.2s;
+  
+  font-size: 18px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  border-bottom-left-radius:10px;
+  border-bottom-right-radius:10px;
+  border-top-left-radius:10px;
+  border-top-right-radius:10px;
+    
+ margin-left:auto;
+    margin-left:right;
+}
+#menu > a{
+  display:inline-flex;  
+    
+}
+#menu a:hover{
+	transform: scale(1.1);
+color: black;	
+background-color: white;
+text-decoration: none;
+}
+
+#menu a:active {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+#content{
+	
+	width:100%;
+	
+	
+	font-size: 30px;
+	text-align: center;
+	
+	color:rgb(214,200,187);
+	
+	margin-bottom:0px;
+	border-bottom-right-radius:10px;
+		border-bottom-left-radius:10px;
+}
+
+#content a{
+    
+    text-decoration: none;
+	margin-right:auto;
+	font-size:25px;
+	color:rgb(214,200,187);
+    padding:4px;
+    transition:0.2s;
+    border-radius:10px;
+}
+
+#content a:hover{
+    
+  transform: scale(1.4);
+color: black;	
+background-color: white;
+text-decoration: none;
+
+border-radius:10px;
+    
+}
+#content > div{
+	
+	width:50%;
+	display:flex;
+	
+	font-size: 30px;
+	
+	
+	color:rgb(214,200,187);
+	
+	margin-bottom:0px;
+	border-bottom-right-radius:10px;
+		border-bottom-left-radius:10px;
+}
+#foot{
+	
+  width:100%;
+	padding:10px 0;
+	background-color:rgba(20, 20, 20, 1.0);
+	text-align:center;
+	border-top:3px solid black;
+	border-bottom:3px solid black;
+	color:white;
+	overflow:hidden;
+	border-bottom-right-radius:10px;
+		border-bottom-left-radius:10px;
+  
+}
+#tekst1{
+	margin-top:40px;
+	
+
+    
+    
+}
+
+#tekst2{
+  margin-top:40px;   
+	
+	
+	
+}
+
+
+
+#con{
+    background-color: aqua;
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
